@@ -1,0 +1,37 @@
+{
+  "departments": [
+    {
+      "key": "1",
+      "departmentid": 1,
+      "departmentcode": 101,
+      "departmentname": "Human Resources"
+    },
+    {
+      "key": "2",
+      "departmentid": 2,
+      "departmentcode": 102,
+      "departmentname": "Information Technology"
+    },
+    {
+      "key": "3",
+      "departmentid": 3,
+      "departmentcode": 103,
+      "departmentname": "Finance"
+    },
+    {
+      "key": "4",
+      "departmentid": 4,
+      "departmentcode": 104,
+      "departmentname": "Sales"
+    },
+    {
+      "key": "5",
+      "departmentid": 5,
+      "departmentcode": 105,
+      "departmentname": "Marketing"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
